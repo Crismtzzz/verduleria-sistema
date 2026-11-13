@@ -1,0 +1,8 @@
+package com.verduleria.model;
+
+public enum Permiso {
+    PRODUCTOS_VER, PRODUCTOS_EDITAR,
+    INVENTARIO_VER, INVENTARIO_MERMA,
+    COMPRAS, VENTAS, CLIENTES,
+    REPORTES, USUARIOS
+}
